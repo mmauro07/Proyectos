@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Frame, Label, StringVar, Entry, OptionMenu, Button
 from tkinter import ttk
 from modelo import Abmc
 
